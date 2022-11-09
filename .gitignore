@@ -1,0 +1,5 @@
+# Ignore ssh keys
+*.pub
+
+# Ignore zip files
+*.zip
